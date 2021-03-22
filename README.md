@@ -8,7 +8,7 @@
 
 For symptom predict
 ```shell
-python symptom.py
+python symptom_train.py
 ```
 
 For disease predict
